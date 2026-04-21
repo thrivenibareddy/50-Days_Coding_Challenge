@@ -1,1 +1,5 @@
+# Insurance Claims Data Analysis using Python
 
+This project focuses on analyzing insurance claim data using Python by working with multiple lists such as policy IDs, claim amounts, claim status, and customer age. It performs key analytical tasks including calculating the total approved claim amount, counting the number of rejected claims, and identifying high-value policies where claim amounts exceed a certain threshold. It also computes the average age of customers whose claims were approved, providing insight into customer demographics.
+
+In addition, the project classifies customers into different risk categories (Low, Medium, High) based on their age using conditional logic. The implementation makes use of fundamental Python concepts like loops, indexing, list operations, and built-in functions, ensuring efficient data processing. Overall, this project serves as a practical introduction to real-world data analysis, helping build a strong foundation for beginners in Python and analytics.
